@@ -19,12 +19,12 @@
   - Sever: iperf -s
   - Client: iperf -c -u 'ip server'
 
-##2.Vấn đề gặp phải: 
+## 2.Vấn đề gặp phải: 
 - h0 không ping được đến sta0:
  - h0 ping được đến ap1 và ap2.
  - ap1 và ap2 không ping được tới sta0.
 
-##3.Tổng hợp lại về git,github:
+## 3.Tổng hợp lại về git,github:
 - git .init: tạo local repo(note: tạo được nhiều repo)
 - git add: đẩy những file vào staging(staging là nơi chứa những file đã sẵn sàng được commit đẩy vào repo.) 
 - git stage. : Đẩy file được thay đổi vào staging
